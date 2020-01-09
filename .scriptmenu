@@ -1,0 +1,8 @@
+#!/bin/sh
+
+chosen=$(find "$HOME/Scripts/" -perm /u+x -type f -printf "%f\n" | sort | dmenu -i -l 20 -fn Monospace-16)
+
+[ "$chosen" != "" ] || exit
+
+notify-send "$chosen" "Running Script"
+"$HOME/Scripts/$chosen"

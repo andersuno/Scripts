@@ -1,0 +1,1401 @@
+ fa-500px
+ fa-address-book
+ fa-address-book-o
+ fa-address-card
+ fa-address-card-o
+ fa-adjust
+ fa-adn
+ fa-align-center
+ fa-align-justify
+ fa-align-left
+ fa-align-right
+ fa-amazon
+ fa-ambulance
+ fa-american-sign-language-interpreting
+ fa-anchor
+ fa-android
+ fa-angellist
+ fa-angle-double-down
+ fa-angle-double-left
+ fa-angle-double-right
+ fa-angle-double-up
+ fa-angle-down
+ fa-angle-left
+ fa-angle-right
+ fa-angle-up
+ fa-apple
+ fa-archive
+ fa-area-chart
+ fa-arrow-circle-down
+ fa-arrow-circle-left
+ fa-arrow-circle-o-down
+ fa-arrow-circle-o-left
+ fa-arrow-circle-o-right
+ fa-arrow-circle-o-up
+ fa-arrow-circle-right
+ fa-arrow-circle-up
+ fa-arrow-down
+ fa-arrow-left
+ fa-arrow-right
+ fa-arrow-up
+ fa-arrows
+ fa-arrows-alt
+ fa-arrows-h
+ fa-arrows-v
+ fa-asl-interpreting (alias)
+ fa-assistive-listening-systems
+ fa-asterisk
+ fa-at
+ fa-audio-description
+ fa-automobile (alias)
+ fa-backward
+ fa-balance-scale
+ fa-ban
+ fa-bandcamp
+ fa-bank (alias)
+ fa-bar-chart
+ fa-bar-chart-o (alias)
+ fa-barcode
+ fa-bars
+ fa-bath
+ fa-bathtub (alias)
+ fa-battery (alias)
+ fa-battery-0 (alias)
+ fa-battery-1 (alias)
+ fa-battery-2 (alias)
+ fa-battery-3 (alias)
+ fa-battery-4 (alias)
+ fa-battery-empty
+ fa-battery-full
+ fa-battery-half
+ fa-battery-quarter
+ fa-battery-three-quarters
+ fa-bed
+ fa-beer
+ fa-behance
+ fa-behance-square
+ fa-bell
+ fa-bell-o
+ fa-bell-slash
+ fa-bell-slash-o
+ fa-bicycle
+ fa-binoculars
+ fa-birthday-cake
+ fa-bitbucket
+ fa-bitbucket-square
+ fa-bitcoin (alias)
+ fa-black-tie
+ fa-blind
+ fa-bluetooth
+ fa-bluetooth-b
+ fa-bold
+ fa-bolt
+ fa-bomb
+ fa-book
+ fa-bookmark
+ fa-bookmark-o
+ fa-braille
+ fa-briefcase
+ fa-btc
+ fa-bug
+ fa-building
+ fa-building-o
+ fa-bullhorn
+ fa-bullseye
+ fa-bus
+ fa-buysellads
+ fa-cab (alias)
+ fa-calculator
+ fa-calendar
+ fa-calendar-check-o
+ fa-calendar-minus-o
+ fa-calendar-o
+ fa-calendar-plus-o
+ fa-calendar-times-o
+ fa-camera
+ fa-camera-retro
+ fa-car
+ fa-caret-down
+ fa-caret-left
+ fa-caret-right
+ fa-caret-square-o-down
+ fa-caret-square-o-left
+ fa-caret-square-o-right
+ fa-caret-square-o-up
+ fa-caret-up
+ fa-cart-arrow-down
+ fa-cart-plus
+ fa-cc
+ fa-cc-amex
+ fa-cc-diners-club
+ fa-cc-discover
+ fa-cc-jcb
+ fa-cc-mastercard
+ fa-cc-paypal
+ fa-cc-stripe
+ fa-cc-visa
+ fa-certificate
+ fa-chain (alias)
+ fa-chain-broken
+ fa-check
+ fa-check-circle
+ fa-check-circle-o
+ fa-check-square
+ fa-check-square-o
+ fa-chevron-circle-down
+ fa-chevron-circle-left
+ fa-chevron-circle-right
+ fa-chevron-circle-up
+ fa-chevron-down
+ fa-chevron-left
+ fa-chevron-right
+ fa-chevron-up
+ fa-child
+ fa-chrome
+ fa-circle
+ fa-circle-o
+ fa-circle-o-notch
+ fa-circle-thin
+ fa-clipboard
+ fa-clock-o
+ fa-clone
+ fa-close (alias)
+ fa-cloud
+ fa-cloud-download
+ fa-cloud-upload
+ fa-cny (alias)
+ fa-code
+ fa-code-fork
+ fa-codepen
+ fa-codiepie
+ fa-coffee
+ fa-cog
+ fa-cogs
+ fa-columns
+ fa-comment
+ fa-comment-o
+ fa-commenting
+ fa-commenting-o
+ fa-comments
+ fa-comments-o
+ fa-compass
+ fa-compress
+ fa-connectdevelop
+ fa-contao
+ fa-copy (alias)
+ fa-copyright
+ fa-creative-commons
+ fa-credit-card
+ fa-credit-card-alt
+ fa-crop
+ fa-crosshairs
+ fa-css3
+ fa-cube
+ fa-cubes
+ fa-cut (alias)
+ fa-cutlery
+ fa-dashboard (alias)
+ fa-dashcube
+ fa-database
+ fa-deaf
+ fa-deafness (alias)
+ fa-dedent (alias)
+ fa-delicious
+ fa-desktop
+ fa-deviantart
+ fa-diamond
+ fa-digg
+ fa-dollar (alias)
+ fa-dot-circle-o
+ fa-download
+ fa-dribbble
+ fa-drivers-license (alias)
+ fa-drivers-license-o (alias)
+ fa-dropbox
+ fa-drupal
+ fa-edge
+ fa-edit (alias)
+ fa-eercast
+ fa-eject
+ fa-ellipsis-h
+ fa-ellipsis-v
+ fa-empire
+ fa-envelope
+ fa-envelope-o
+ fa-envelope-open
+ fa-envelope-open-o
+ fa-envelope-square
+ fa-envira
+ fa-eraser
+ fa-etsy
+ fa-eur
+ fa-euro (alias)
+ fa-exchange
+ fa-exclamation
+ fa-exclamation-circle
+ fa-exclamation-triangle
+ fa-expand
+ fa-expeditedssl
+ fa-external-link
+ fa-external-link-square
+ fa-eye
+ fa-eye-slash
+ fa-eyedropper
+ fa-fa (alias)
+ fa-facebook
+ fa-facebook-f (alias)
+ fa-facebook-official
+ fa-facebook-square
+ fa-fast-backward
+ fa-fast-forward
+ fa-fax
+ fa-feed (alias)
+ fa-female
+ fa-fighter-jet
+ fa-file
+ fa-file-archive-o
+ fa-file-audio-o
+ fa-file-code-o
+ fa-file-excel-o
+ fa-file-image-o
+ fa-file-movie-o (alias)
+ fa-file-o
+ fa-file-pdf-o
+ fa-file-photo-o (alias)
+ fa-file-picture-o (alias)
+ fa-file-powerpoint-o
+ fa-file-sound-o (alias)
+ fa-file-text
+ fa-file-text-o
+ fa-file-video-o
+ fa-file-word-o
+ fa-file-zip-o (alias)
+ fa-files-o
+ fa-film
+ fa-filter
+ fa-fire
+ fa-fire-extinguisher
+ fa-firefox
+ fa-first-order
+ fa-flag
+ fa-flag-checkered
+ fa-flag-o
+ fa-flash (alias)
+ fa-flask
+ fa-flickr
+ fa-floppy-o
+ fa-folder
+ fa-folder-o
+ fa-folder-open
+ fa-folder-open-o
+ fa-font
+ fa-font-awesome
+ fa-fonticons
+ fa-fort-awesome
+ fa-forumbee
+ fa-forward
+ fa-foursquare
+ fa-free-code-camp
+ fa-frown-o
+ fa-futbol-o
+ fa-gamepad
+ fa-gavel
+ fa-gbp
+ fa-ge (alias)
+ fa-gear (alias)
+ fa-gears (alias)
+ fa-genderless
+ fa-get-pocket
+ fa-gg
+ fa-gg-circle
+ fa-gift
+ fa-git
+ fa-git-square
+ fa-github
+ fa-github-alt
+ fa-github-square
+ fa-gitlab
+ fa-gittip (alias)
+ fa-glass
+ fa-glide
+ fa-glide-g
+ fa-globe
+ fa-google
+ fa-google-plus
+ fa-google-plus-circle (alias)
+ fa-google-plus-official
+ fa-google-plus-square
+ fa-google-wallet
+ fa-graduation-cap
+ fa-gratipay
+ fa-grav
+ fa-group (alias)
+ fa-h-square
+ fa-hacker-news
+ fa-hand-grab-o (alias)
+ fa-hand-lizard-o
+ fa-hand-o-down
+ fa-hand-o-left
+ fa-hand-o-right
+ fa-hand-o-up
+ fa-hand-paper-o
+ fa-hand-peace-o
+ fa-hand-pointer-o
+ fa-hand-rock-o
+ fa-hand-scissors-o
+ fa-hand-spock-o
+ fa-hand-stop-o (alias)
+ fa-handshake-o
+ fa-hard-of-hearing (alias)
+ fa-hashtag
+ fa-hdd-o
+ fa-header
+ fa-headphones
+ fa-heart
+ fa-heart-o
+ fa-heartbeat
+ fa-history
+ fa-home
+ fa-hospital-o
+ fa-hotel (alias)
+ fa-hourglass
+ fa-hourglass-1 (alias)
+ fa-hourglass-2 (alias)
+ fa-hourglass-3 (alias)
+ fa-hourglass-end
+ fa-hourglass-half
+ fa-hourglass-o
+ fa-hourglass-start
+ fa-houzz
+ fa-html5
+ fa-i-cursor
+ fa-id-badge
+ fa-id-card
+ fa-id-card-o
+ fa-ils
+ fa-image (alias)
+ fa-imdb
+ fa-inbox
+ fa-indent
+ fa-industry
+ fa-info
+ fa-info-circle
+ fa-inr
+ fa-instagram
+ fa-institution (alias)
+ fa-internet-explorer
+ fa-intersex (alias)
+ fa-ioxhost
+ fa-italic
+ fa-joomla
+ fa-jpy
+ fa-jsfiddle
+ fa-key
+ fa-keyboard-o
+ fa-krw
+ fa-language
+ fa-laptop
+ fa-lastfm
+ fa-lastfm-square
+ fa-leaf
+ fa-leanpub
+ fa-legal (alias)
+ fa-lemon-o
+ fa-level-down
+ fa-level-up
+ fa-life-bouy (alias)
+ fa-life-buoy (alias)
+ fa-life-ring
+ fa-life-saver (alias)
+ fa-lightbulb-o
+ fa-line-chart
+ fa-link
+ fa-linkedin
+ fa-linkedin-square
+ fa-linode
+ fa-linux
+ fa-list
+ fa-list-alt
+ fa-list-ol
+ fa-list-ul
+ fa-location-arrow
+ fa-lock
+ fa-long-arrow-down
+ fa-long-arrow-left
+ fa-long-arrow-right
+ fa-long-arrow-up
+ fa-low-vision
+ fa-magic
+ fa-magnet
+ fa-mail-forward (alias)
+ fa-mail-reply (alias)
+ fa-mail-reply-all (alias)
+ fa-male
+ fa-map
+ fa-map-marker
+ fa-map-o
+ fa-map-pin
+ fa-map-signs
+ fa-mars
+ fa-mars-double
+ fa-mars-stroke
+ fa-mars-stroke-h
+ fa-mars-stroke-v
+ fa-maxcdn
+ fa-meanpath
+ fa-medium
+ fa-medkit
+ fa-meetup
+ fa-meh-o
+ fa-mercury
+ fa-microchip
+ fa-microphone
+ fa-microphone-slash
+ fa-minus
+ fa-minus-circle
+ fa-minus-square
+ fa-minus-square-o
+ fa-mixcloud
+ fa-mobile
+ fa-mobile-phone (alias)
+ fa-modx
+ fa-money
+ fa-moon-o
+ fa-mortar-board (alias)
+ fa-motorcycle
+ fa-mouse-pointer
+ fa-music
+ fa-navicon (alias)
+ fa-neuter
+ fa-newspaper-o
+ fa-object-group
+ fa-object-ungroup
+ fa-odnoklassniki
+ fa-odnoklassniki-square
+ fa-opencart
+ fa-openid
+ fa-opera
+ fa-optin-monster
+ fa-outdent
+ fa-pagelines
+ fa-paint-brush
+ fa-paper-plane
+ fa-paper-plane-o
+ fa-paperclip
+ fa-paragraph
+ fa-paste (alias)
+ fa-pause
+ fa-pause-circle
+ fa-pause-circle-o
+ fa-paw
+ fa-paypal
+ fa-pencil
+ fa-pencil-square
+ fa-pencil-square-o
+ fa-percent
+ fa-phone
+ fa-phone-square
+ fa-photo (alias)
+ fa-picture-o
+ fa-pie-chart
+ fa-pied-piper
+ fa-pied-piper-alt
+ fa-pied-piper-pp
+ fa-pinterest
+ fa-pinterest-p
+ fa-pinterest-square
+ fa-plane
+ fa-play
+ fa-play-circle
+ fa-play-circle-o
+ fa-plug
+ fa-plus
+ fa-plus-circle
+ fa-plus-square
+ fa-plus-square-o
+ fa-podcast
+ fa-power-off
+ fa-print
+ fa-product-hunt
+ fa-puzzle-piece
+ fa-qq
+ fa-qrcode
+ fa-question
+ fa-question-circle
+ fa-question-circle-o
+ fa-quora
+ fa-quote-left
+ fa-quote-right
+ fa-ra (alias)
+ fa-random
+ fa-ravelry
+ fa-rebel
+ fa-recycle
+ fa-reddit
+ fa-reddit-alien
+ fa-reddit-square
+ fa-refresh
+ fa-registered
+ fa-remove (alias)
+ fa-renren
+ fa-reorder (alias)
+ fa-repeat
+ fa-reply
+ fa-reply-all
+ fa-resistance (alias)
+ fa-retweet
+ fa-rmb (alias)
+ fa-road
+ fa-rocket
+ fa-rotate-left (alias)
+ fa-rotate-right (alias)
+ fa-rouble (alias)
+ fa-rss
+ fa-rss-square
+ fa-rub
+ fa-ruble (alias)
+ fa-rupee (alias)
+ fa-s15 (alias)
+ fa-safari
+ fa-save (alias)
+ fa-scissors
+ fa-scribd
+ fa-search
+ fa-search-minus
+ fa-search-plus
+ fa-sellsy
+ fa-send (alias)
+ fa-send-o (alias)
+ fa-server
+ fa-share
+ fa-share-alt
+ fa-share-alt-square
+ fa-share-square
+ fa-share-square-o
+ fa-shekel (alias)
+ fa-sheqel (alias)
+ fa-shield
+ fa-ship
+ fa-shirtsinbulk
+ fa-shopping-bag
+ fa-shopping-basket
+ fa-shopping-cart
+ fa-shower
+ fa-sign-in
+ fa-sign-language
+ fa-sign-out
+ fa-signal
+ fa-signing (alias)
+ fa-simplybuilt
+ fa-sitemapconnection network
+ fa-skyatlas
+ fa-skype
+ fa-slack
+ fa-sliders
+ fa-slideshare
+ fa-smile-o
+ fa-snapchat
+ fa-snapchat-ghost
+ fa-snapchat-square
+ fa-snowflake-o
+ fa-soccer-ball-o (alias)
+ fa-sort
+ fa-sort-alpha-asc
+ fa-sort-alpha-desc
+ fa-sort-amount-asc
+ fa-sort-amount-desc
+ fa-sort-asc
+ fa-sort-desc
+ fa-sort-down (alias)
+ fa-sort-numeric-asc
+ fa-sort-numeric-desc
+ fa-sort-up (alias)
+ fa-soundcloud
+ fa-space-shuttle
+ fa-spinner
+ fa-spoon
+ fa-spotify
+ fa-square
+ fa-square-o
+ fa-stack-exchange
+ fa-stack-overflow
+ fa-star
+ fa-star-half
+ fa-star-half-empty (alias)
+ fa-star-half-full (alias)
+ fa-star-half-o
+ fa-star-o
+ fa-steam
+ fa-steam-square
+ fa-step-backward
+ fa-step-forward
+ fa-stethoscope
+ fa-sticky-note
+ fa-sticky-note-o
+ fa-stop
+ fa-stop-circle
+ fa-stop-circle-o
+ fa-street-view
+ fa-strikethrough
+ fa-stumbleupon
+ fa-stumbleupon-circle
+ fa-subscript
+ fa-subway
+ fa-suitcase
+ fa-sun-o
+ fa-superpowers
+ fa-superscript
+ fa-support (alias)
+ fa-table
+ fa-tablet
+ fa-tachometer
+ fa-tag
+ fa-tags
+ fa-tasks
+ fa-taxi
+ fa-telegram
+ fa-television
+ fa-tencent-weibo
+ fa-terminal
+ fa-text-height
+ fa-text-width
+ fa-th
+ fa-th-large
+ fa-th-list
+ fa-themeisle
+ fa-thermometer (alias)
+ fa-thermometer-0 (alias)
+ fa-thermometer-1 (alias)
+ fa-thermometer-2 (alias)
+ fa-thermometer-3 (alias)
+ fa-thermometer-4 (alias)
+ fa-thermometer-empty
+ fa-thermometer-full
+ fa-thermometer-half
+ fa-thermometer-quarter
+ fa-thermometer-three-quarters
+ fa-thumb-tack
+ fa-thumbs-down
+ fa-thumbs-o-down
+ fa-thumbs-o-up
+ fa-thumbs-up
+ fa-ticket
+ fa-times
+ fa-times-circle
+ fa-times-circle-o
+ fa-times-rectangle (alias)
+ fa-times-rectangle-o (alias)
+ fa-tint
+ fa-toggle-down (alias)
+ fa-toggle-left (alias)
+ fa-toggle-off
+ fa-toggle-on
+ fa-toggle-right (alias)
+ fa-toggle-up (alias)
+ fa-trademark
+ fa-train
+ fa-transgender
+ fa-transgender-alt
+ fa-trash
+ fa-trash-o
+ fa-tree
+ fa-trello
+ fa-tripadvisor
+ fa-trophy
+ fa-truck
+ fa-try
+ fa-tty
+ fa-tumblr
+ fa-tumblr-square
+ fa-turkish-lira (alias)
+ fa-tv (alias)
+ fa-twitch
+ fa-twitter
+ fa-twitter-square
+ fa-umbrella
+ fa-underline
+ fa-undo
+ fa-universal-access
+ fa-university
+ fa-unlink (alias)
+ fa-unlock
+ fa-unlock-alt
+ fa-unsorted (alias)
+ fa-upload
+ fa-usb
+ fa-usd
+ fa-user
+ fa-user-circle
+ fa-user-circle-o
+ fa-user-md
+ fa-user-o
+ fa-user-plus
+ fa-user-secret
+ fa-user-times
+ fa-users
+ fa-vcard (alias)
+ fa-vcard-o (alias)
+ fa-venus
+ fa-venus-double
+ fa-venus-mars
+ fa-viacoin
+ fa-viadeo
+ fa-viadeo-square
+ fa-video-camera
+ fa-vimeo
+ fa-vimeo-square
+ fa-vine
+ fa-vk
+ fa-volume-control-phone
+ fa-volume-down
+ fa-volume-off
+ fa-volume-up
+ fa-warning (alias)
+ fa-wechat (alias)
+ fa-weibo
+ fa-weixin
+ fa-whatsapp
+ fa-wheelchair
+ fa-wheelchair-alt
+ fa-wifi
+ fa-wikipedia-w
+ fa-window-close
+ fa-window-close-o
+ fa-window-maximize
+ fa-window-minimize
+ fa-window-restore
+ fa-windows
+ fa-won (alias)
+ fa-wordpress
+ fa-wpbeginner
+ fa-wpexplorer
+ fa-wpforms
+ fa-wrench
+ fa-xing
+ fa-xing-square
+ fa-y-combinator
+ fa-y-combinator-square (alias)
+ fa-yahoo
+ fa-yc (alias)
+ fa-yc-square (alias)
+ fa-yelp
+ fa-yen (alias)
+ fa-yoast
+ fa-youtube
+ fa-youtube-play
+ fa-youtube-square
+#️ number pound sign hashtag
+*️ asterisk
+0️ digit zero
+1️ digit one
+2️ digit two
+3️ digit three
+4️ digit four
+5️ digit five
+6️ digit six
+7️ digit seven
+8️ digit eight
+9️ digit nine
+©️ copyright
+®️ registered
+‼️ double exclamation mark
+⁉️ exclamation question mark
+™️ trade mark
+ℹ️ information
+↔️ left-right arrow
+↕️ up-down arrow
+↖️ up-left arrow
+↗️ up-right arrow
+↘️ down-right arrow
+↙️ down-left arrow
+↩️ right arrow curving left
+↪️ left arrow curving right
+⌚ watch
+⌛ hourglass done
+⌨️ keyboard
+⏏️ eject button
+⏩ fast-forward button
+⏪ fast reverse button rewind symbol
+⏫ fast up button up-pointing double triangle
+⏬ fast down button down-pointing double triangle
+⏭️ next track button skip forward symbol
+⏮️ last track button previous track skip backward symbol
+⏯️ play or pause button symbol
+⏰ alarm clock
+⏱️ stop watch
+⏲️ timer clock
+⏳ hourglass not done
+⏸️ pause button
+⏹️ stop button
+⏺️ record button
+Ⓜ️ circled M
+▪️ black small square
+▫️ white small square
+▶️ play button
+◀️ reverse button
+◻️ white medium square
+◼️ black medium square
+◽ white medium-small square
+◾ black medium-small square
+☀️ sun
+☁️ cloud
+☂️ umbrella
+☃️ snowman
+☄️ comet
+☎️ black telephone
+☑️ ballot box with check
+☔ umbrella with rain drops
+☕ hot beverage
+☘️ shamrock
+☝️ index pointing up
+☠️ skull and crossbones
+☢️ radioactive sign
+☣️ biohazard sign
+☦️ orthodox cross
+☪️ star and crescent
+☮️ peace symbol
+☯️ yin yang
+☸️ wheel of dharma
+☹️ frowning face
+☺️ smiling face
+♀️ female sign
+♂️ male sign
+♈ Aries
+♉ taurus
+♊ gemini
+♋ cancer
+♌ leo
+♍ virgo
+♎ libra
+♏ scorpio scorpius
+♐ sagittarius
+♑ capricorn
+♒ aquarius
+♓ pisces
+♟️ chess pawn
+♠️ spade suit
+♣️ club suit
+♥️ heart suit
+♦️ diamond suit
+♨️ hot springs
+♻️ recycling symbol
+♾️ infinity
+♿ wheelchair symbol
+⚒️ hammer and pick
+⚓ anchor
+⚔️ crossed swords
+⚕️ medical symbol staff of aesculapius
+⚖️ balanced scale
+⚗️ alembic
+⚙️ gear
+⚛️ atom symbol
+⚜️ fleur-de-lis
+⚠️ warning
+⚡ high voltage
+⚪ white circle
+⚫ black circle
+⚰️ coffin
+⚱️ funeral urn
+⚽ soccer ball
+⚾ baseball
+⛄ snowman without snow
+⛅ sun behind cloud
+⛈️ cloud with lightning and rain
+⛎ Ophiuchus
+⛏️ pick
+⛑️ rescue worker’s helmet
+⛓️ chains
+⛔ no entry
+⛩️ shinto shrine
+⛪ church
+⛰️ mountain
+⛱️ umbrella on ground
+⛲ fountain
+⛳ flag in hole
+⛴️ ferry boat
+⛵ sailboat
+⛷️ skier
+⛸️ ice skate
+⛹️ person bouncing ball
+⛺ tent
+⛽ fuel pump
+✂️ scissors
+✅ white heavy check mark
+✈️ airplane
+✉️ envelope
+✊ raised fist hand
+✋ raised hand
+✌️ victory hand
+✍️ writing hand
+✏️ pencil
+✒️ black nib
+✔️ heavy check mark
+✖️ heavy multiplication x
+✝️ latin cross
+✡️ star of David
+✨ sparkles
+✳️ eight-spoked asterisk
+✴️ eight-pointed star
+❄️ snowflake
+❇️ sparkle
+❌ cross mark
+❎ cross mark button
+❓ question mark
+❔ white question mark
+❕ white exclamation mark
+❗ exclamation mark
+❣️ heavy heart exclamation
+❤️ red heart
+➕ heavy plus sign
+➖ heavy minus sign
+➗ heavy division sign
+➡️ right arrow
+➰ curly loop
+➿ double curly loop
+⤴️ right arrow curving up
+⤵️ right arrow curving down
+⬅️ left arrow
+⬆️ up arrow
+⬇️ down arrow
+⬛ black large square
+⬜ white large square
+⭐ star
+⭕ heavy large circle
+〰️ wavy dash
+〽️ part alternation mark
+㊗️ Japanese “congratulations” button
+㊙️ Japanese “secret” button
+🀄 mahjong red dragon
+🃏 joker
+🅰️ A button (blood type)
+🅱️ B button (blood type)
+🅾️ O button (blood type)
+🅿️ P button
+🆎 AB button (blood type)
+🆑 CL button
+🆒 cool button
+🆓 free button
+🆔 id button
+🆕 new button
+🆖 ng button
+🆗 ok button
+🆘 sos button
+🆙 up! button
+🆚 VS button
+#🇦..🇿)    regional indicator symbol letter a..regional indicator symbol letter z
+🈁 Japanese “here” button
+🈂️ Japanese “service charge” button
+🈚 Japanese “free of charge” button
+🈯 Japanese “reserved” button
+🈲 Japanese “prohibited” button
+🈺 Japanese “open for business” button
+🉐 Japanese “bargain” button
+🉑 Japanese “acceptable” button
+🌀 cyclone
+🌂 closed umbrella
+🌈 rainbow
+🌊 water wave
+🌋 volcano
+🌍 earth globe europe-africa
+🌎 earth globe americas
+🌏 earth globe asia-australia
+🌑 new moon
+🌒 waxing crescent moon
+🌓 first quarter moon
+🌔 waxing gibbous moon
+🌕 full moon
+🌖 waning gibbous moon
+🌗 last quarter moon
+🌘 waning crescent moon
+🌙 crescent moon
+🌟 glowing star
+🌠 shooting star
+🌡️ thermometer
+🌤️ sun behind small cloud
+⛅ sun behind cloud
+🌦️ sun behind rain cloud
+🌧️ cloud with rain
+🌨️ cloud with snow
+🌩️ cloud with lightning
+🌪️ tornado
+🌬️ wind face
+🌭 hot dog
+🌮 taco
+🌯 burrito
+🌰 chestnut
+🌱 seedling
+🌲 evergreen tree
+🌳 deciduous rounded tree
+🌴 palm tree
+🌵 cactus
+🌶️ hot pepper
+🌷 tulip
+🌸 cherry blossom
+🌹 rose
+🌺 hibiscus
+🌻 sunflower
+🌼 daisy blossom
+🌽 corn maize
+🌾 rice
+🌿 herb
+🍀 four leaf clover
+🍁 maple leaf
+🍂 fallen leaf
+🍃 leaf fluttering in wind
+🍄 mushroom
+🍅 tomato
+🍆 eggplant aubergine
+🍇 grapes
+🍈 melon
+🍉 watermelon
+🍊 tangerine
+🍋 lemon
+🍌 banana
+🍍 pineapple
+🍎 red apple
+🍏 green apple
+🍐 pear
+🍑 peach ass
+🍒 cherries cherry
+🍓 strawberry
+🍔 hamburger
+🍕 pizza slice
+🍖 meat bone
+🍗 poultry leg meat
+🍘 rice cracker
+🍙 rice ball
+🍚 cooked rice
+🍛 curry and rice
+🍜 steaming bowl ramen
+🍝 spaghetti
+🍞 bread
+🍟 french fries pommes frites
+🍠 roasted sweet potato
+🍡 dango skewer
+🍢 oden skewer
+🍣 sushi
+🍤 fried shrimp
+🍥 fish cake with swirl design
+🍦 soft ice cream
+🍧 shaved ice cream
+🍨 ice cream
+🍩 doughnut donut
+🍪 cookie
+🍫 chocolate bar
+🍬 candy
+🍭 lollipop
+🍮 custard
+🍯 honey pot
+🍰 short cake
+🍱 bento box
+🍲 pot of food
+🍳 cooking frying pan
+🍴 fork and knife
+🍵 teacup without handle
+🍶 sake bottle and cup
+🍷 wine glass
+🍸 cocktail glass
+🍹 tropical drink
+🍺 beer mug
+🍻 clinking beer mugs
+🍼 baby bottle
+🍽️ fork and knife with plate
+🍾 bottle with popping cork
+🍿 popcorn
+🎀 ribbon
+🎁 wrapped present
+🎂 birthday cake
+🎃 jack-o-lantern halloween
+🎄 christmas tree
+🎅 father christmas santa claus
+🎆 fireworks
+🎇 fireworks sparkler
+🎈 balloon
+🎉 party popper
+🎊 confetti ball
+🎋 tanabata tree
+🎌 crossed japanese flags
+🎍 pine decoration japanese
+🎎 japanese dolls
+🎏 carp streamer fish
+🎐 wind chime
+🎑 moon viewing ceremony japanese
+🎒 school satchel rucksack bag
+🎓 graduation cap
+🎖️ military medal
+🎗️ reminder ribbon
+🎙️ studio microphone
+🎚️ level slider
+🎛️ control knobs
+🎞️ film frames
+🎟️ admission tickets
+🎠 carousel horse
+🎡 ferris wheel
+🎢 roller coaster
+🎣 fishing pole and fish
+🎤 microphone
+🎥 movie camera
+🎦 cinema camera
+🎧 headphone
+🎨 artist palette
+🎩 top hat
+🎪 circus tent
+🎫 ticket
+🎬 clapper board movie
+🎭 performing art mask
+🎮 video game controller
+🎯 direct hit dart board
+🎰 slot machine
+🎱 billiards 8-ball
+🎲 game die
+🎳 bowling
+🎴 flower playing cards
+🎵 musical note
+🎶 multiple musical notes
+🎷 saxophone
+🎸 guitar
+🎹 musical keyboard
+🎺 trumpet
+🎻 violin
+🎼 musical score
+🎽 running shirt with sash
+🎾 tennis raquet with ball
+🎿 ski
+🏀 basketball
+🏁 chequered flag
+🏂 person snowboarder
+🏃 person running
+🏄 person surfing
+🏅 sports medal
+🏆 trophy
+🏇 person horse racing
+🏈 american football
+🏉 rugby football
+🏊 person swimming
+🏋️ person lifting weights
+🏎️ racing car
+🏏 cricket game
+🏓 ping pong
+🏔️ snow-capped mountain
+🏟️ stadium
+🏠 house
+🏰 castle
+🏳️ white flag
+🏴 black flag
+🏵️ rosette
+🏷️ label
+🏸 badminton
+#🏿 dark skin tone
+🐀 rat
+🐾 paw prints
+🐿️ chipmunk
+👀 eyes
+👁️ eye
+👂 ear
+💤 sleeping symbol
+💦 splashing sweat symbol
+💩 pile of poo
+💪 flexing biceps
+💯 hundred points symbol
+💰 money bag dollar
+💲 heavy dollar sign
+💳 credit card
+💻 personal computer
+💾 floppy disk
+💿 optical disk cd
+📀 optical disk dvd
+📁 file folder
+📂 open file folder
+📃 page with curl
+📄 page facing up
+📅 calendar
+📆 calendar tear-off
+📋 clipboard
+📌 pushpin
+📍 round pushpin
+📎 paperclip
+📝 memo paper with pen
+📞 telephone
+📡 satellite antenna
+📤 outbox tray up
+📥 inbox tray down
+📦 package
+📧 e-mail symbol email
+📨 incoming envelope mail
+📩 envelope down arrow mail
+📪 closed mailbox lowered flag
+📫 closed mailbox raised flag
+📬 open mailbox raised flag
+📭 open mailbox lowered flag
+📷 camera
+📸 camera with flash
+📹 video camera
+📼 videocassette
+📽️ film projector
+📿 prayer beads
+🔀 shuffle tracks button
+🔇 speaker mute
+🔈 speaker low
+🔉 speaker mid
+🔊 speaker high
+🔌 electric plug
+🔐 closed lock with key
+🔑 key
+🔒 closed lock
+🔓 opened lock
+🔧 wrench
+🔨 hammer
+🔪 hocho knife
+🔼 upwards button
+🔽 downwards button
+🕉️ om
+🕊️ dove
+🕋 kaaba
+🕎 menorah
+🕐 one o’clock
+🕧 twelve-thirty
+🕯️ candle
+🕰️ mantelpiece clock
+🕳️ hole
+🕹️ joystick
+🕺 man dancing
+🖇️ linked paperclips
+🖊️ pen
+🖍️ crayon
+🖐️ hand with fingers splayed
+🖕 middle finger
+🖖 vulcan salute
+🖤 black heart
+🖥️ desktop computer
+🖨️ printer
+🖱️ computer mouse
+🖲️ trackball
+🖼️ framed picture
+🗂️ card index dividers
+🗄️ file cabinet
+🗑️ wastebasket
+🗓️ spiral calendar
+🗜️ clamp
+🗞️ rolled-up newspaper
+🗡️ dagger
+🗣️ speaking head
+🗨️ left speech bubble
+🗯️ right anger bubble
+🗳️ ballot box with ballot
+🗺️ world map
+🗻 mount fuji
+🗿 moai
+😀 grinning face
+😁 beaming face with smiling eyes
+😈 smiling face with horns
+😍 smiling face with heart-shaped eyes
+😎 smiling face with sunglasses
+😏 smirking face
+😐 neutral face
+😑 expressionless face
+😒 unamused face
+😔 pensive face
+😕 confused face
+😖 confounded face
+😗 kissing face
+😘 face blowing a kiss
+😙 kissing face with smiling eyes
+😚 kissing face with closed eyes
+😛 face with tongue
+😜 winking face with tongue
+😞 disappointed face
+😟 worried face
+😠 angry face
+😥 sad but relieved face
+😦 frowning face with open mouth
+😧 anguished face
+😨 fearful face
+😫 tired face
+😬 grimacing face
+😭 loudly crying face
+😮 face with open mouth
+😯 hushed face
+😰 anxious face with sweat
+😳 flushed face
+😴 sleeping face
+😵 dizzy face
+🙀 weary cat face
+🙁 slightly frowning face
+🙂 slightly smiling face
+🙃 upside-down face
+🙄 face with rolling eyes
+🙅 person gesturing NO
+🙏 folded hands
+🚀 rocket
+🛅 left luggage
+🛋️ couch and lamp
+🛏️ bed
+🛐 place of worship
+🛑 stop sign
+🛒 shopping cart
+🛠️ hammer and wrench
+🛥️ motor boat
+🛩️ small airplane
+🛫 airplane departure
+🛬 airplane arrival
+🛰️ satellite
+🛳️ passenger ship
+🛴 kick scooter
+🛶 canoe
+🛷 sled
+🛸 flying saucer
+🛹 skateboard
+🤐 zipper-mouth face
+🤘 sign of the horns
+🤙 call me hand
+🤞 crossed fingers
+🤟 love-you gesture
+🤠 cowboy hat face
+🤧 sneezing face
+🤨 face with raised eyebrow
+🤯 exploding head
+🤰 pregnant woman
+🤱 breast-feeding
+🤲 palms up together
+🤳 selfie
+🤺 person fencing
+🤼 people wrestling
+🤾 person playing handball
+🥀 wilted flower
+🥅 goal net
+🥇 1st place medal
+🥈 2nd place medal
+🥉 3rd place medal
+🥋 martial arts uniform
+🥌 curling stone
+🥍 lacrosse
+🥏 flying disc
+🥐 croissant
+🥞 pancakes
+🥟 dumpling
+🥫 canned food
+🥬 leafy green
+🥰 smiling face with 3 hearts
+🥳 partying face
+🥶 cold face
+🥺 pleading face
+🥼 lab coat
+🥿 woman’s flat shoe
+🦀 crab
+🦄 unicorn face
+🦅 eagle
+🦑 squid
+🦒 giraffe
+🦗 cricket
+🦘 kangaroo
+🦢 swan
+🦰 red-haired
+🦹 supervillain
+🧀 cheese wedge
+🧁 cupcake
+🧂 salt
+🧐 face with monocle
+🧦 socks
+🧧 red envelope
+🧲 magnet
+🧿 nazar amulet
