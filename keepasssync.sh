@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #ENV variable for my notify-send when ran as cronjob
 export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
