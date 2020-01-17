@@ -6,7 +6,7 @@ brightness=$(< $brightness_file)
 if [ $((brightness > 0)) '=' 1 ]
 then
    brightness=$((brightness - 10))
-   
+
    if [ $((brightness < 1)) '=' 1 ]
    then
       brightness=1
