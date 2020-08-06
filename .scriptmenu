@@ -1,6 +1,6 @@
 #!/bin/sh
 
-chosen=$(find "$HOME/Scripts/" -path $HOME/Scripts/.git -prune -o -perm /u+x -type f -printf "%f\n" | sort | dmenu -i -l 20 -fn Monospace-16)
+chosen=$(find "$HOME/Scripts/" -path "$HOME/Scripts/.*" -prune -o -perm /u+x -type f -printf "%f\n" | sort | dmenu -i -l 20 -fn Monospace-16)
 
 [ "$chosen" != "" ] || exit
 
