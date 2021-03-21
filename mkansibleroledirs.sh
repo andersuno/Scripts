@@ -20,7 +20,7 @@ done
 
 [ -e "$dir/$rolename" ] && echo "This directory already exist, OVERWRITE? [y/N]" && read -r ans
 
-[ "$ans" != y ] && [ "$ans" != Y ] && exit
+[ -e "$dir/$rolename" ] && [ "$ans" != y ] && [ "$ans" != Y ] && exit
 
 for i in ${DIRS}; do
 	mkdir -p "$dir/$rolename/$i";
