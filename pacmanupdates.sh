@@ -2,16 +2,15 @@
 
 ping -c 1 google.com >/dev/null 2>&1 || exit
 
-cmd="sudo pacman"
+cmd="paru"
+aur="--repo"
 
-[ "$1" = "-a" ] && cmd="yay"
+[ "$1" = "-a" ] && aur="--aur"
 
 $cmd -Sy >> /dev/null || exit
-output=$($cmd -Quq | wc -l)
+output=$($cmd -Quq $aur | wc -l)
 
 if [ "$1" = "-a" ]; then
-	nonaur=$(sudo pacman -Quq | wc -l)
-	output=$((output-nonaur))
 	output="📦AUR:$output"
 else
 	output="📦:$output"
